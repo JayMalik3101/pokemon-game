@@ -1,3 +1,3 @@
 pokemon-game
 
-A school project.
+A GLU school project.
